@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946489544100",
+    "firebase_url": "https://iron-sports.firebaseio.com",
+    "project_id": "iron-sports",
+    "storage_bucket": "iron-sports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946489544100:android:79363d93c81ea1e1",
+        "android_client_info": {
+          "package_name": "com.example.ironsports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946489544100-somfallqu7es076mmhj1ue9gom83o9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANy1MHpWRoEwoXpOPlWV5QQzzoXdNyt9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
